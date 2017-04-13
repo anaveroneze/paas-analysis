@@ -15,6 +15,8 @@ Computing environments: **dynos** - *web dynos*, *worker dynos*, *one-off dynos*
 Other programming languages: associate **buildpacks** (git repository)\
 Free mode: 1 web dyno and 1 worker dyno, 512GB RAM, sleeps after 30mins inactivity 
 
+## Presented as ...
+
 ## Statistical analyzes
 |Number threads | Average | Variance | Standard deviation | Coefficient of variation | Minimum time | Maximum time | Margin of error (99%) |
 |------ | ------- | -------- | ------------------ | ------------------------ | ------------ | ------------ |------------------------ |
@@ -25,7 +27,7 @@ Free mode: 1 web dyno and 1 worker dyno, 512GB RAM, sleeps after 30mins inactivi
 
 ## Performance analysis
 
-| Number threads | Speedup | Eficiência | 
+| Number threads | Speedup | Efficiency | 
 |--------------- | ------- | ---------- |
 | 2 | 1,230 | 0,615 |
 | 4 | 1,304 | 0,326 |
