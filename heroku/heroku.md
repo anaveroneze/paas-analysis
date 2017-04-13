@@ -44,6 +44,17 @@ Swap: 64GB
  <!--- Wa, tempo para I/O: tempo de CPU esperando a conclusão de operação de entrada/saída no disco (I/O) 
 * hi: CPU tempo servindo interrupções de hardware - tem acesso? ---->
 
+### vmstat
+
+![vmstatheroku](vmstatheroku.png?raw=true "vmstat")
+
+Usage of virtual memory: 1824720KB\
+Amount of memory swapped in from disk: 514KB/s\
+Amount of memory swapped to disk: 322KB/s\
+Interruptions (w/clock): 3/s\
+Context switches: 3/s
+<!--- vmstat -s ---->
+
 ## Statistical analyzes
 |Number threads | Average | Variance | Standard deviation | Coefficient of variation | Minimum time | Maximum time | Margin of error (99%) |
 |------ | ------- | -------- | ------------------ | ------------------------ | ------------ | ------------ |------------------------ |
