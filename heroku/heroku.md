@@ -17,6 +17,16 @@ Free mode: 1 web dyno and 1 worker dyno, 512GB RAM, sleeps after 30mins inactivi
 
 ## Presented as ...
 
+### HW
+Xen virtual machine running on Intel(R) Xeon(R) CPU E5-2670\
+8 cores\
+cache memory: L1 32KB  L2 256KB  L3 20MB\
+RAM: 60GB 
+
+### SW
+Ubuntu\
+Linux version 3.13.0-105-generic
+
 ## Statistical analyzes
 |Number threads | Average | Variance | Standard deviation | Coefficient of variation | Minimum time | Maximum time | Margin of error (99%) |
 |------ | ------- | -------- | ------------------ | ------------------------ | ------------ | ------------ |------------------------ |
