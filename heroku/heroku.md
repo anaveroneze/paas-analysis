@@ -31,7 +31,7 @@ Linux version 3.13.0-105-generic
 
 ### top
 
-![topheroku](/topheroku.png?raw=true "top")
+![topheroku](topheroku.png?raw=true "top")
 
 Using infrastructure hosted in Europe (3h+)\
 System running over: 35 days\
